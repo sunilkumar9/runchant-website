@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "http://"runchant.com
+baseurl = "http://runchant.com"
 title = "Runchant | Your feet aught to chant Run!"
 theme = "vex-hugo"
 # post excert
